@@ -1,0 +1,1 @@
+Guice is a great dependency injection framework but has gotten too big. The goal of Injecto is to provide a tiny Guice-like library that can be embedded in Android applications, or other situations where the size of the application is a real concern. Injecto does not do reflection magic. You can attach providers or instances with it for later use.
