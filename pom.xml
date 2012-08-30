@@ -6,7 +6,7 @@
   <groupId>com.singhinderjeet.injecto</groupId>
   <artifactId>injecto</artifactId>
   <packaging>jar</packaging>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <name>Injecto Dependency Injection Framework</name>
   <description>A tiny dependency injection framework</description>
   <parent>
