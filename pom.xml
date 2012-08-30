@@ -20,7 +20,6 @@
     <connection>scm:git:git@github.com:inder123/injecto.git</connection>
     <url>scm:git:git@github.com:inder123/injecto.git</url>
     <developerConnection>scm:git:git@github.com:inder123/injecto.git</developerConnection>
-    <tag>HEAD</tag>
   </scm>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -140,7 +139,6 @@
   <developers>
     <developer>
       <name>Inderjeet Singh</name>
-      <organization>Trymph Inc.</organization>
     </developer>
   </developers>
 </project>
